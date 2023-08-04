@@ -1,0 +1,2 @@
+Start Point: (294, 118)
+End Point: (502, 330)
